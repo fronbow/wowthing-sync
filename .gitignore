@@ -1,3 +1,6 @@
 WoWthing Sync/bin/
 WoWthing Sync/obj/
 packages/
+/.vs/wowthing-sync/v15/Server/sqlite3
+/.vs/wowthing-sync/v15/.suo
+/.vs
